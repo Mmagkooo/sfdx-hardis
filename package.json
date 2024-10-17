@@ -43,7 +43,7 @@
     "glob": "^11.0.0",
     "he": "^1.2.0",
     "inquirer": "^10.1.8",
-    "isomorphic-dompurify": "^2.3.0",
+    "isomorphic-dompurify": "^2.10.0",
     "jira-client": "^8.2.2",
     "js-yaml": "^4.0.0",
     "jsforce": "^1.11.0",
